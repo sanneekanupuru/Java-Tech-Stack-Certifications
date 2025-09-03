@@ -1,1 +1,1 @@
-# sannee-certificates
+# Sannee Java Tech Stack Certifications
